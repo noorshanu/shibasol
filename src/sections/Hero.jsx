@@ -15,18 +15,18 @@ function Hero() {
          
               <div className=" py-2">
                 <a
-                  href="https://solscan.io/token/ECd4fK2qevgXqkiEVYp7Yzr8H2i1iR9M3mjpFF7VFn2h"
+                  href="https://solscan.io/token/3RGn9YZKBDQoYmcFJGdYVqtHj9W22vrBu4fDpD78Ufjp"
                   target="_blank"
-                  className="my-2 font-groot-two flex justify-start text-xs  text-[#000000] sm:text-xl font-bold "
+                  className="my-2 font-groot-two flex justify-start text-xs  text-[#000000] sm:text-lg font-bold "
                 >
                   {" "}
-                  Contract : ECd4fK2qevgXqkiEVYp7Yzr8H2i1iR9M3mjpFF7VFn2h
+                  Contract : 3RGn9YZKBDQoYmcFJGdYVqtHj9W22vrBu4fDpD78Ufjp
                 </a>
               </div>
 
               <div className="relative z-40 flex items-center justify-start my-4 max-sm:flex-col max-sm:space-y-4 sm:space-x-5">
               <a
-                  href="https://www.dextools.io/app/en/solana/pair-explorer/DsoLd7ioLe8612UWRtk38PHfEu2PEKgE6JZz386oB68a?t=1710859158007"
+                  href="https://www.dextools.io/app/en/solana/pair-explorer/NsWh27LmMRvUUAaXBahK3HyLQB45bk3t1pQqKRSSnSF?t=1711133782768"
                   target="_blank"
                   className="text-base py-2 uppercase font-sushi-one px-10 rounded-xl bg-[#f02c2f] shadow-lg shadow-black/40 text-[#ffffff]  font-bold  border-[#000000] border-2"
                 >
@@ -35,10 +35,10 @@ function Hero() {
                
             
                 <div className="flex items-center space-x-4 text-xl [&_a:hover]:opacity-70">
-            <a target="_blank" href="https://twitter.com/ShibaSolb" className=" text-4xl">
+            <a target="_blank" href="#" className=" text-4xl">
               <FaTwitter fill="#000" />
             </a>
-            <a target="_blank" href="https://t.me/ShibaSolo" className=" text-4xl">
+            <a target="_blank" href="https://t.me/shibasol0" className=" text-4xl">
               <FaTelegram fill="#000" />
             </a>
           </div>
